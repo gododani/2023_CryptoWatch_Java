@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "703257966474",
+    "project_id": "crypto-watch-5f34c",
+    "storage_bucket": "crypto-watch-5f34c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703257966474:android:e19ee30f5fe0c805a07a73",
+        "android_client_info": {
+          "package_name": "com.example.cryptowatch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703257966474-5b407cdgv9d8h3t5d61l1opo158mfqs0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cryptowatch",
+            "certificate_hash": "1f3dc771297432cbfa85c58a81d1f6a416171f71"
+          }
+        },
+        {
+          "client_id": "703257966474-v6qu7knb3de65lv2lrtuf11rr4jnm32t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFIsrKwaRBNkbzftHk-cny42W_srmeH7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703257966474-v6qu7knb3de65lv2lrtuf11rr4jnm32t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
