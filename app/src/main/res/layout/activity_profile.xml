@@ -25,10 +25,10 @@ tools:context=".ProfileActivity">
             <ImageView
                 android:id="@+id/profileLogo"
                 android:layout_width="match_parent"
-                android:layout_height="184dp"
+                android:layout_height="wrap_content"
                 android:layout_marginTop="32dp"
                 android:contentDescription="Profile_image"
-                app:srcCompat="@drawable/crypto_profile" />
+                app:srcCompat="@drawable/crypto_profile2" />
 
             <TextView
                 android:id="@+id/yourProfile"
